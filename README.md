@@ -1,0 +1,1 @@
+This is in progress and rather basic so far, but is intended to provide functions to use civitai's API to get information on models, look for updates, etc.
